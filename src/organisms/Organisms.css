@@ -1,0 +1,11 @@
+.HeaderArea {
+  margin: 20px;
+  display: flex;
+  padding-bottom: 20px;
+  align-items: flex-end;
+}
+
+.StatusArea {
+  display: flex;
+  flex-direction: column;
+}
